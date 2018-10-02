@@ -15,7 +15,7 @@ public class A {
 		driver = new ChromeDriver();
 		driver.get("https://www.naukri.com/");
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-				
+		System.out.println("hello sir");		
 	}
 	
 	@AfterMethod
