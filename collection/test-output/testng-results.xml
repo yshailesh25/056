@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18145" started-at="2018-08-26T06:52:46Z" finished-at="2018-08-26T06:53:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18145" started-at="2018-08-26T06:52:46Z" finished-at="2018-08-26T06:53:04Z">
+      <class name="collection.Alert002">
+        <test-method status="PASS" signature="startbro()[pri:0, instance:collection.Alert002@68999068]" name="startbro" is-config="true" duration-ms="14612" started-at="2018-08-26T06:52:46Z" finished-at="2018-08-26T06:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbro -->
+        <test-method status="PASS" signature="testdemoguru()[pri:0, instance:collection.Alert002@68999068]" name="testdemoguru" duration-ms="3478" started-at="2018-08-26T06:53:01Z" finished-at="2018-08-26T06:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdemoguru -->
+        <test-method status="PASS" signature="closebro()[pri:0, instance:collection.Alert002@68999068]" name="closebro" is-config="true" duration-ms="1" started-at="2018-08-26T06:53:04Z" finished-at="2018-08-26T06:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebro -->
+      </class> <!-- collection.Alert002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
